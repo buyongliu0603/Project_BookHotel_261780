@@ -82,7 +82,6 @@ class _NewHotelState extends State<NewHotel> {
                     width: screenWidth / 1.2,
                     //height: screenHeight / 2,
                     child: Card(
-                        color: Colors.green[50],
                         elevation: 6,
                         child: Padding(
                             padding: EdgeInsets.all(10),
